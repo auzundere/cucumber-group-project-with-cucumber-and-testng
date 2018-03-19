@@ -1,5 +1,7 @@
 package com.indeed.runners;
 
-public class CukesRunner {
+import org.openqa.selenium.WebDriver;
 
+public class CukesRunner {
+private WebDriver driver;
 }
